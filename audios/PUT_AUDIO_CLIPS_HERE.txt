@@ -1,0 +1,1 @@
+Copy your audio clips into this folder, then run: python transcribe_audios.py
